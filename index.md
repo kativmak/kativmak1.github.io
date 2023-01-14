@@ -1,4 +1,5 @@
 ## Ekaterina I. Makarenko
+![My picture](/kativmak/kativmak.github.io/accets/images/ph.jpg)
 
 ### About me
 
