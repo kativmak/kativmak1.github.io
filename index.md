@@ -1,5 +1,5 @@
 ## Ekaterina I. Makarenko
-![p_sm](https://user-images.githubusercontent.com/32163802/212486537-987ac971-04aa-4f58-97cb-4b63e0da2465.jpeg)
+![p_sm](https://user-images.githubusercontent.com/32163802/212486745-1b382984-ca92-4d94-8e9e-7f4c5b777db2.jpeg)
 
 
 ### About me
