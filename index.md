@@ -4,8 +4,8 @@
 
 ### About me
 
-Hi! I am Ekaterina (Katya) I. Makarenko and I am a PhD student in Astrophysics at the [1. Institute of Physics in the University of Cologne](https://astro.uni-koeln.de), Germany in the group of [Prof. Stefanie Walch](https://hera.ph1.uni-koeln.de/~walch/Steffi_Walchs_homepage/Main.html).
-I do theory and simulations studying aspects of the life of massive stars on different time and space scales. From their birth in molecular clouds in the interstellar medium and the evolution of their magnetic fields to the end of their life: supernova explosions and those compact objects that come from them remain - neutron stars.
+Welcome!
+I'm Ekaterina (Katya) I. Makarenko, a postdoctoral researcher at the Max Planck Institute for Extraterrestrial Physics. I study how supernova remnants and cosmic rays affect energy bidget and alter the chemistry of the interstellar medium, using simulations and theory to connect models with observations.
 
 ### Research interests
 
